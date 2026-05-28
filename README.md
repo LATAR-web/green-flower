@@ -18,7 +18,9 @@ omarchy-theme-install https://github.com/LATAR-web/green-flower.git
 
 ## Credits
 - Waybar theme by [HANCORE-linux](https://github.com/HANCORE-linux/waybar-themes)
-
+```bash
+git clone https://github.com/HANCORE-linux/waybar-themes.git /tmp/repo && cp -rf /tmp/repo/config/V2.5b/. ~/.config/waybar && rm -rf /tmp/repo && omarchy-restart-waybar
+```
 
 ### License
 MIT
