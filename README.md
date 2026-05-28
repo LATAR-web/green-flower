@@ -16,5 +16,9 @@ Perfectly suited to the omarchy.org aesthetic — subtle, beautiful, and refined
 omarchy-theme-install https://github.com/LATAR-web/green-flower.git
 ```
 
+## Credits
+- Waybar theme by [HANCORE-linux](https://github.com/HANCORE-linux/waybar-themes)
+
+
 ### License
 MIT
